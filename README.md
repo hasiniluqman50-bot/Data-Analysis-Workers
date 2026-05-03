@@ -12,8 +12,10 @@ Dataset preview  <img width="1277" height="569" alt="Dataset Preview " src="prev
 
 
 ## Research question
-- How to find the correct shift date considering that overtime workers might take a break past midnight?  
-- 
+- How to find the correct shift date considering that overtime workers might take a break past midnight?
+- How to find total break time for workers if they take break more than one everyday?
+- How to compare the workers' shift time in the data with their assigned shift schedule to find the overtime workers?
+- How to calculate the workers' excess break time?
 
 ## Tools Used
 - Power BI
