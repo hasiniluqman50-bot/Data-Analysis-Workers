@@ -21,4 +21,6 @@ Dataset preview  <img width="1277" height="569" alt="Dataset Preview " src="prev
 - Power BI
 
 ## Features
+- Splitting the timedate columns to get the date for going out and going in from break.
+Shift date <img width="1277" height="569" alt="Shift date" src="shiftdate.png" />
 
