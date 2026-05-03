@@ -7,13 +7,12 @@ is conducted by using Power BI. The data is filtered to only consists of workers
 Source of data:
 https://docs.google.com/spreadsheets/d/1W9bDORFJ70nOWJ-x1jQ5gsewPKcTWuys/edit?usp=drive_link&ouid=107190325714836561299&rtpof=true&sd=true
 
-Data preview:
 
 Dataset preview  <img width="1277" height="569" alt="Dataset Preview " src="preview dataset.png" />
 
 
 ## Research question
-
+- How to find the correct shift date considering that overtime workers might take a break past midnight?  
 - 
 
 ## Tools Used
