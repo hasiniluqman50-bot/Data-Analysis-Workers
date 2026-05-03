@@ -44,4 +44,4 @@ Shift date column <img width="1277" height="569" alt="Shift date" src="shiftdate
 
  ## Dashboard
 <img width="1277" height="569" alt="Dashboard" src="Dashboard.png" />
-<img width="1277" height="569" alt="Dashboard" src="Dashboard.png" />
+<img width="1277" height="569" alt="Dashboard" src="Dashboard.mp4" />
