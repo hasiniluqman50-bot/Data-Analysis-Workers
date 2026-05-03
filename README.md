@@ -44,4 +44,8 @@ Shift date column <img width="1277" height="569" alt="Shift date" src="shiftdate
 
  ## Dashboard
 <img width="1277" height="569" alt="Dashboard" src="Dashboard.png" />
-<img width="1277" height="569" alt="Dashboard" src="Dashboard.mp4" />
+
+
+https://github.com/user-attachments/assets/0293c9b8-3ed1-43cc-9f02-f2bbf18b12a4
+
+
