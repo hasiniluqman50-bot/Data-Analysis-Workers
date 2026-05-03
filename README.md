@@ -48,4 +48,8 @@ Shift date column <img width="1277" height="569" alt="Shift date" src="shiftdate
 
 https://github.com/user-attachments/assets/0293c9b8-3ed1-43cc-9f02-f2bbf18b12a4
 
+## Conclusion
+Based on the dashboard, more than 36000 cases of extended break happened in 2025 with almost 220000 minutes in total of the excess break time. The highest cases happened in October with 3321 cases and the group that commited most cases is group 3SCC.
+
+## File
 
