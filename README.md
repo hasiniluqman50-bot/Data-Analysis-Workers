@@ -40,4 +40,8 @@ Shift date column <img width="1277" height="569" alt="Shift date" src="shiftdate
   Shift column <img width="1277" height="569" alt="Shift" src="shift.png" />
   <img width="1277" height="569" alt="Shift" src="shift 2.png" />
 
+- Subtracting the value from total interval with the time limit to get every workers that extended their break.
 
+ ## Dashboard
+<img width="1277" height="569" alt="Dashboard" src="Dashboard.png" />
+<img width="1277" height="569" alt="Dashboard" src="Dashboard.png" />
