@@ -31,9 +31,13 @@ Shift date column <img width="1277" height="569" alt="Shift date" src="shiftdate
 
 - Group the workers by using group by on id, name, group, shift time and date to get the sum of interval between the on the in and out break time columns. Create limit break column to get the time limit on workers' break based on their group
 
+  Total interval column <img width="1277" height="569" alt="Total interval" src="total interval.png" />
+  
   Limit break column <img width="1277" height="569" alt="Limit break" src="limit break.png" />
 
 - Create a new query on the workers' shift schedule and merge both queries. Compare the shift between waktu shift column and shift time from schedule to find the workers that did overtime.
 
   Shift column <img width="1277" height="569" alt="Shift" src="shift.png" />
-  <img width="1277" height="569" alt="Shift" src="shift2.png" />
+  <img width="1277" height="569" alt="Shift" src="shift 2.png" />
+
+
