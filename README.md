@@ -21,6 +21,11 @@ Dataset preview  <img width="1277" height="569" alt="Dataset Preview " src="prev
 - Power BI
 
 ## Features
-- Splitting the timedate columns to get the date for going out and going in from break.
-Shift date <img width="1277" height="569" alt="Shift date" src="shiftdate.png" />
+- Splitting the timedate columns to get the date and time for going out and going in from break. The groups have different start and end shift time. The "waktu shift" column was made to categorize different shift time based on the in and out break time columns.
+
+ "Waktu shift" column <img width="1277" height="569" alt="waktu shift" src="waktu shift.png" />
+
+ - By using the shift time, shift date column was made to accurately calculate the date of workers' shift while taking consideration on different date that was caused by taking a break past midnight.
+
+Shift date column <img width="1277" height="569" alt="Shift date" src="shiftdate.png" />
 
