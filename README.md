@@ -29,3 +29,6 @@ Dataset preview  <img width="1277" height="569" alt="Dataset Preview " src="prev
 
 Shift date column <img width="1277" height="569" alt="Shift date" src="shiftdate.png" />
 
+- Create limit break column to get the time limit on workers' break based on their group
+
+  Limit break column <img width="1277" height="569" alt="Limit break" src="limitbreak.png" />
